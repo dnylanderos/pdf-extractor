@@ -10,4 +10,3 @@ namespace pdf_extractor;
 public partial class App : Application
 {
 }
-

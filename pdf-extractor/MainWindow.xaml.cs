@@ -1,4 +1,11 @@
-﻿using System.Text;
+﻿// Project Prolog
+// Name: Daniel Landeros
+// CS3260 Section X01
+// Project: Lab 13
+// Date: 4/23/25
+// Purpose: To build a personal project class design
+
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
